@@ -4,7 +4,7 @@
 ## It'z Towhid😄
 
 
-It's Towhid. Wanna be a "Devoloper".Love to learn new things. Using code- Python, HTML. Student - ECE department (CSE). Presidency University, Bangladesh.
+From Bangaldesh...It's Towhid. All my thinking are pending for the new journey. Student of a private University. "To learn something new is to lose something". But Also believe that almighty always does everything for best and only best. I've strong faith in almighty. 
 
 Skills: PYTHON/ HTML / CSS
 
