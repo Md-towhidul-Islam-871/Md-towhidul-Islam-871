@@ -1,5 +1,3 @@
-![Beginner. Web Devoloper.](https://scontent.fdac140-1.fna.fbcdn.net/v/t1.6435-9/97974619_864589340711793_5931674685627432960_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFR7zrEoJk3cx7vCmyfofcF_PZK7B2vpq_89krsHa-mr75gqAJ8pK4ZGn4MQ8AVOxBCfJJOTpHWcVm2gQZvandf&_nc_ohc=jiQK5F-9FRYAX-k2Hi0&_nc_ht=scontent.fdac140-1.fna&oh=00_AfD14Pm2GjAoY27DOiDkHHAvUp_k0PzSs_yYTHyBQLqArg&oe=64146E90)
-
 # Hi,there
 ## It'z Towhid😄
 
