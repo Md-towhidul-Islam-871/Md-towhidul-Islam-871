@@ -2,7 +2,7 @@
 ## It'z Towhid😄
 
 
-From Bangaldesh...It'z Towhid. All my thinking are pending for the new journey. 
+From Bangaldesh...It'z Towhid. All my thinking are pending for the new journey. <br>
 I believe in- "To learn something new is to lose something (Time, Friend, Girlfriend, Self leisure time)". But I've strong faith in my almighty. 
 
 Skills: PYTHON/ HTML / CSS / WordPress Website Build
