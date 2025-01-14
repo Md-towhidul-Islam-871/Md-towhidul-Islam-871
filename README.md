@@ -19,7 +19,7 @@ Skills: PYTHON/ HTML / CSS / WordPress Website Build
 - Django Framework (Python+JavaScript)
 - Exploring the power of WordPress for professional website building!
 
-Contact Me
+Contact Me<br>
 💌 Email: mdtowhidulislam871@gmail.com<br>
 🌐 Portfolio/Website: (https://md-towhidul-islam-871.github.io/Protfolio_Website/) <br>
 
