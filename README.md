@@ -2,7 +2,8 @@
 ## It'z Towhid😄
 
 
-From Bangaldesh...It'z Towhid. All my thinking are pending for the new journey. I believe in- "To learn something new is to lose something (Time, Friend, Girlfriend, Self leisure time)". But I've strong faith in my almighty. 
+From Bangaldesh...It'z Towhid. All my thinking are pending for the new journey. 
+I believe in- "To learn something new is to lose something (Time, Friend, Girlfriend, Self leisure time)". But I've strong faith in my almighty. 
 
 Skills: PYTHON/ HTML / CSS / WordPress Website Build
 
@@ -15,8 +16,8 @@ Skills: PYTHON/ HTML / CSS / WordPress Website Build
 - ⚡ Fun fact: Alhamdulillah in any situations
 
 🎁Currently Learning
-Django Framework (Pthon+Javascript)
-Exploring the power of WordPress for professional website building!
+- Django Framework (Pthon+Javascript)
+- Exploring the power of WordPress for professional website building!
 
 Contact Me
 💌 Email: mdtowhidulislam871@gmail.com
