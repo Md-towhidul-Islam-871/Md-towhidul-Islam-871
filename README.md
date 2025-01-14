@@ -16,7 +16,7 @@ Skills: PYTHON/ HTML / CSS / WordPress Website Build
 - ⚡ Fun fact: Alhamdulillah in any situations
 
 🎁Currently Learning
-- Django Framework (Pthon+Javascript)
+- Django Framework (Python+JavaScript)
 - Exploring the power of WordPress for professional website building!
 
 Contact Me
